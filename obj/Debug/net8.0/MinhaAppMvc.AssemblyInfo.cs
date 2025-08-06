@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhaAppMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08c1e1b04e56b2b36c577c871979a0b7c08046eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f2d4ad67fb5e02d3dffd190addfda1da76681f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhaAppMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhaAppMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

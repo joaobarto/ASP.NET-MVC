@@ -253,7 +253,11 @@ C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\obj\Debug\net8.0\MinhaAppMvc.pdb
 C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\obj\Debug\net8.0\MinhaAppMvc.genruntimeconfig.cache
 C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\obj\Debug\net8.0\ref\MinhaAppMvc.dll
 C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET-MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
